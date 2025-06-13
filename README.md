@@ -23,4 +23,6 @@ Essa parte da aplicação diz respeito às especificações de investimento. Os 
 ![perfis-investimento](imagens/perfis-investimento.png)
 Essa é a parte final do simulador. Aqui, são apresentadas sugestões de investimento para cada tipo de perfil de investidor e de acordo com o aporte escolhido pelo usuário anteriormente. Os cálculos são feitos a partir de uma coluna de apoio, a qual foi ocultada.
 
+## Considerações Finais
 
+O projeto pode ser alterado posteriormente.
